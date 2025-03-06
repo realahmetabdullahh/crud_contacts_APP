@@ -1,4 +1,4 @@
-Contacts Management Console Application
+
 This is a C#-based console application for managing contacts and related country information. The application follows a modular architecture, allowing for easy management and scalability. Below is an overview of the architecture and components:
 
 Architecture Overview
