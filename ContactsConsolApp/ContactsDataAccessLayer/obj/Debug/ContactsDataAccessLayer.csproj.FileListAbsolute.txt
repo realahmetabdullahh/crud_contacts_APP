@@ -1,0 +1,6 @@
+C:\Users\Ahmed\OneDrive\Desktop\programing Advice Tutorial YT\ContactsConsolApp\ContactsDataAccessLayer\bin\Debug\ContactsDataAccessLayer.dll
+C:\Users\Ahmed\OneDrive\Desktop\programing Advice Tutorial YT\ContactsConsolApp\ContactsDataAccessLayer\bin\Debug\ContactsDataAccessLayer.pdb
+C:\Users\Ahmed\OneDrive\Desktop\programing Advice Tutorial YT\ContactsConsolApp\ContactsDataAccessLayer\obj\Debug\ContactsDataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\Ahmed\OneDrive\Desktop\programing Advice Tutorial YT\ContactsConsolApp\ContactsDataAccessLayer\obj\Debug\ContactsDataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Ahmed\OneDrive\Desktop\programing Advice Tutorial YT\ContactsConsolApp\ContactsDataAccessLayer\obj\Debug\ContactsDataAccessLayer.dll
+C:\Users\Ahmed\OneDrive\Desktop\programing Advice Tutorial YT\ContactsConsolApp\ContactsDataAccessLayer\obj\Debug\ContactsDataAccessLayer.pdb
